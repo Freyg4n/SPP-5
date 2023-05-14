@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 18,
+      "userId": 8,
+      "name": "QWEQE",
+      "expires": "2023-05-14T21:04",
+      "description": "WQEWQEWQ",
+      "isComplete": true,
+      "file": {
+        "fieldname": "task-files",
+        "originalname": "3ccfdee097fdb52466580ee0b0167aa253df846a_full.jpg",
+        "encoding": "7bit",
+        "mimetype": "image/jpeg",
+        "destination": "uploads",
+        "filename": "2e1eac2b92ac79cfaf8aa6084ac1cee7",
+        "path": "uploads\\2e1eac2b92ac79cfaf8aa6084ac1cee7",
+        "size": 10782
+      }
+    }
+  ]
+}

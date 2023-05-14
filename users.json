@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4,
+    "login": "Beldan02@tut.by",
+    "hashedPassword": "$2a$10$AlxdJ5I.NwsVlVtjUsuSL.jSAWoA.nOW2g1OD.09CLmJNs9lDTEhu"
+  },
+  {
+    "id": 6,
+    "login": "Name02",
+    "hashedPassword": "$2a$10$4mHQBAazTtFIRaIwoYNeTe/Iopthilgy4jG96pRFkEUFk6t4zWq8e"
+  },
+  {
+    "id": 7,
+    "login": "d.susha@mail.ru",
+    "hashedPassword": "$2a$10$Ytwppwkg.myucZpy5rjpbu7tenlQ4.FGQniI92IJiNg9x5rBX/6fe"
+  },
+  {
+    "id": 8,
+    "login": "d.susha123@mail.ru",
+    "hashedPassword": "$2a$10$61fbQZt9vfq4WJm2X6mCLeJdzRpaZO3pAjqQpyarQ.iIy0L29Ckl2"
+  }
+]
